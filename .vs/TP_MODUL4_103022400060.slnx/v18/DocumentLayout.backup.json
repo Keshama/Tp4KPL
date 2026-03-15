@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Keisya\\source\\repos\\TP_MODUL4_103022400060\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4602DAD6-7376-49ED-BCB9-CA406C1189A5}|TP_MODUL4_103022400060\\TP_MODUL4_103022400060.csproj|c:\\users\\keisya\\source\\repos\\tp_modul4_103022400060\\tp_modul4_103022400060\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4602DAD6-7376-49ED-BCB9-CA406C1189A5}|TP_MODUL4_103022400060\\TP_MODUL4_103022400060.csproj|solutionrelative:tp_modul4_103022400060\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A353953-8138-123A-6640-1BC4DE6775F5}|TP_MODUL4_103022400060\\TP_MODUL4_103022400060.csproj|c:\\users\\keisya\\source\\repos\\tp_modul4_103022400060\\tp_modul4_103022400060\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A353953-8138-123A-6640-1BC4DE6775F5}|TP_MODUL4_103022400060\\TP_MODUL4_103022400060.csproj|solutionrelative:tp_modul4_103022400060\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A353953-8138-123A-6640-1BC4DE6775F5}|TP_MODUL4_103022400060\\TP_MODUL4_103022400060.csproj|c:\\users\\keisya\\source\\repos\\tp_modul4_103022400060\\tp_modul4_103022400060\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A353953-8138-123A-6640-1BC4DE6775F5}|TP_MODUL4_103022400060\\TP_MODUL4_103022400060.csproj|solutionrelative:tp_modul4_103022400060\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "C:\\Users\\Keisya\\source\\repos\\TP_MODUL4_103022400060\\TP_MODUL4_103022400060\\KodePos.cs",
+              "RelativeDocumentMoniker": "TP_MODUL4_103022400060\\KodePos.cs",
+              "ToolTip": "C:\\Users\\Keisya\\source\\repos\\TP_MODUL4_103022400060\\TP_MODUL4_103022400060\\KodePos.cs",
+              "RelativeToolTip": "TP_MODUL4_103022400060\\KodePos.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T05:17:45.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Keisya\\source\\repos\\TP_MODUL4_103022400060\\TP_MODUL4_103022400060\\Program.cs",
               "RelativeDocumentMoniker": "TP_MODUL4_103022400060\\Program.cs",
